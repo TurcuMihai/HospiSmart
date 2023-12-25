@@ -1,0 +1,14 @@
+org.example.Client
+org.example.Client.Actions
+org.example.Client.ApplicationClient
+org.example.Client.Interface
+org.example.Client.Interface.DoctorsInterface
+org.example.Client.Interface.HeaderForInterfaces
+org.example.Client.Interface.LoginInterface
+org.example.Client.Interface.MenuInterface
+org.example.Client.Interface.PatientsInterface
+org.example.Server
+org.example.Server.ApplicationServer
+org.example.Server.DataBase
+org.example.Server.Domain
+org.example.Server.Repositories
